@@ -35,7 +35,7 @@ By the time you submit this project, you will have covered new ground in, and re
 - Use Ruby on Rails framework to build your application
 - Don't use Rails Scaffolding for generating your resources.
 - Deploy on Heroku so application is live on the web
-- Craft a `README.md` file that explains your app to the world
+- Create a `README.md` file that explains your app to the world
 
 ### Technical Requirements
 
