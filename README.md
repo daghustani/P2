@@ -65,8 +65,8 @@ By the time you submit this project, you will have covered new ground in, and re
 
 
 ### Necessary Deliverables
-- Projects are due Thursday, 7/25 at 9am!
-- A **5 minute presentation** in which you answer the following questions:
+- Projects are due Thursday, 12/26 at 8.30am!
+- A **10 minute presentation** in which you answer the following questions:
   - What is the application about?
   - Is there any information you think might help us understand what you built?
   - Demo of application
