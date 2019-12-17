@@ -65,7 +65,8 @@ By the time you submit this project, you will have covered new ground in, and re
 
 
 ### Necessary Deliverables
-- Projects are due Thursday, 12/26 at 8.30am!
+- Projects are due on Thursday, 12/26 at 8.30am!
+- You have to fill the google sheet before 8.30am with you name, github link and deployed link
 - A **10 minute presentation** in which you answer the following questions:
   - What is the application about?
   - Is there any information you think might help us understand what you built?
